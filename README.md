@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hi+there%2C+my+name+is+Giordano+Pegoraro;I'm+21+years+old;I'm+an+IT+Student+at+PUCRS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=19&pause=1000&width=435&lines=Hi+there%2C+my+name+is+Giordano+Pegoraro;I'm+21+years+old;I'm+a+COmputer+Science+Student+at+UTFPR" alt="Typing SVG" /></a>
 
 ###
 
